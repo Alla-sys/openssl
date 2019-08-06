@@ -1,7 +1,9 @@
 ---
 name: Feature request
-labels: feature
 about: Propose a feature you would like to see added in the software
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
